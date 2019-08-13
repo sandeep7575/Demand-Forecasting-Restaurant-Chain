@@ -1,4 +1,4 @@
-# Genpact - Hackathon - Demand Forecasting
+# Restaurant Chain - Demand Forecasting
 * Problem description:
 * Predict the number of orders for the upcoming weeks of the test data of a very big meal delivery company.
 * Goal is to do demand forecasting  for upcoming weeks so that the centres will plan the stock of raw materials accordingly. 
